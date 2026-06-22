@@ -12,18 +12,15 @@ html {
 /* home-section  */
 #topbar{
      background-color:#212934; 
-    height: 24%;
+    /* height: 24%; */
 }
 #container{
     display: flex;
     justify-content: space-between;
     color: #cfd6e1;
-    padding-left: 12px;
-    padding-right: 12px;
+    padding: 8px 8px 12px 12px ;
     margin-left: 51px;
-    margin-right: 51px;
-    padding-top: 8px;
-    padding-bottom: 8px; 
+    margin-right: 51px; 
     font-family: 'Roboto', sans-serif;
 
 }
